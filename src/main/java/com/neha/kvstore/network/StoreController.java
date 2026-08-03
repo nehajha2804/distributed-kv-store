@@ -1,2 +1,4 @@
-package com.neha.kvstore.network;public class StoreController {
+package com.neha.kvstore.network;
+
+public class StoreController {
 }
